@@ -11,3 +11,178 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn-primary{
+  font-size: 1.125rem;
+  color:#fff;
+  text-decoration: none;
+  background-color: #333;
+  padding: .4em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-primary:hover{
+  background-color: #000;
+}
+
+.btn-subtle{
+  font-size: 1.125rem;
+  color: #fff;
+  text-decoration: none;
+  background-color: #ccc;
+  padding: .4em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-subtle:hover{
+  background-color: #666;
+}
+
+.btn-ghost{
+  font-size: 1.125rem;
+  color: #000;
+  text-decoration: none;
+  background-color: #fff;
+  padding: .4em;
+  border-color: #000;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-ghost:hover{
+  background-color: #ccc;
+}
+
+.btn-warning{
+  font-size: 1.125rem;
+  color: #fff;
+  text-decoration:none;
+  background-color: #f33;
+  padding: .4em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-warning:hover{
+  background-color: #933;
+}
+
+.btn-primary-small{
+  font-size: .875rem;;
+  color:#fff;
+  text-decoration: none;
+  background-color: #333;
+  padding: .3em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-primary-small:hover{
+  background-color: #000;
+}
+
+.btn-primary:hover{
+  background-color: #000;
+}
+
+.btn-subtle-small{
+  font-size: .875rem;
+  color: #fff;
+  text-decoration: none;
+  background-color: #ccc;
+  padding: .3em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-subtle-small:hover{
+  background-color: #666;
+}
+
+.btn-ghost-small{
+  font-size: .875rem;
+  color: #000;
+  text-decoration: none;
+  background-color: #fff;
+  padding: .3em;
+  border-color: #000;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-ghost-small:hover{
+  background-color: #ccc;
+}
+
+.btn-warning-small{
+  font-size: .875rem;
+  color: #fff;
+  text-decoration:none;
+  background-color: #f33;
+  padding: .3em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-warning-small:hover{
+  background-color: #933;
+}
+
+.btn-primary-big{
+  font-size: 1.5rem;;
+  color:#fff;
+  text-decoration: none;
+  background-color: #333;
+  padding: .4em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-primary-big:hover{
+  background-color: #000;
+}
+
+.btn-subtle-big{
+  font-size: 1.5rem;
+  color: #fff;
+  text-decoration: none;
+  background-color: #ccc;
+  padding: .4em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-subtle-big:hover{
+  background-color: #666;
+}
+
+.btn-ghost-big{
+  font-size: 1.5rem;
+  color: #000;
+  text-decoration: none;
+  background-color: #fff;
+  padding: .4em;
+  border-color: #000;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-ghost-big:hover{
+  background-color: #ccc;
+}
+
+.btn-warning-big{
+  font-size: 1.5rem;
+  color: #fff;
+  text-decoration:none;
+  background-color: #f33;
+  padding: .4em;
+  border-width: 3px;
+  border-radius: 8px;
+}
+
+.btn-warning-big:hover{
+  background-color: #933;
+}
